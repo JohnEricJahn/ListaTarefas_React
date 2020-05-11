@@ -26,5 +26,6 @@ module.exports = {
     'react/jsx-filename-extension': 'off',
     'linebreak-style': 'off',
     'react/state-in-constructor': 'off',
+    'react/forbid-prop-types': 'off',
   },
 };
